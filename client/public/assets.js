@@ -10,7 +10,7 @@ import massage_4 from './massage_4.jpg'
 import massage_5 from './massage_5.jpg'
 import massage_6 from './massage_6.png'
 
-const RUB_TO_USD = 0.013 // approx conversion rate
+const RUB_TO_USD = 0.013
 
 export const master_list = [
     {
@@ -38,32 +38,32 @@ export const master_list = [
 export const price_list = [
     {
         name: "Traditional Massage",
-        price: `$${Math.round(4000 * RUB_TO_USD)}`,
+        price: `60 min / $${Math.round(4000 * RUB_TO_USD)}`,
         image: massage_6
     },
     {
         name: "Relaxing Massage",
-        price: `$${Math.round(4000 * RUB_TO_USD)}`,
+        price: `60 min / $${Math.round(4000 * RUB_TO_USD)}`,
         image: massage_2
     },
     {
         name: "Healing Massage",
-        price: `$${Math.round(4000 * RUB_TO_USD)}`,
+        price: `60 min / $${Math.round(4000 * RUB_TO_USD)}`,
         image: massage_3
     },
     {
         name: "Sports Massage",
-        price: `$${Math.round(4200 * RUB_TO_USD)}`,
+        price: `60 min / $${Math.round(4200 * RUB_TO_USD)}`,
         image: massage_4
     },
     {
         name: "Slim Massage",
-        price: `$${Math.round(4200 * RUB_TO_USD)}`,
+        price: `60 min / $${Math.round(4200 * RUB_TO_USD)}`,
         image: massage_5
     },
     {
         name: "Balinese Massage",
-        price: `$${Math.round(4000 * RUB_TO_USD)}`,
+        price: `60 min / $${Math.round(4000 * RUB_TO_USD)}`,
         image: massage_1
     },
 ]

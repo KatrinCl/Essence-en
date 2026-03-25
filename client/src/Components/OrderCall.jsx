@@ -28,7 +28,7 @@ const OrderCall = ({ onClose }) => {
   return (
     <div className='fixed inset-0 bg-black/60 flex items-center justify-center z-50 px-4'>
       <form onSubmit={onSubmit} className='relative bg-white w-full max-w-md rounded-xl p-6 md:p-8 flex flex-col gap-4'>
-        <button type='button' onClick={onClose} className='absolute top-4 right-4 text-gray-500 hover:text-black'>
+        <button type='button' onClick={onClose} className='absolute top-4 right-4 text-gray-500 hover:text-black cursor-pointer'>
           ✕
         </button>
 

@@ -57,37 +57,37 @@ const Navbar = () => {
 
           <li className='w-full text-center my-2 md:my-5'>
             <Link to='programs' smooth duration={500} onClick={closeMenu} className='block py-3 md:py-0 text-white/60 hover:text-yellow-500 cursor-pointer transition text-base'>
-              SPA Programs
+              SPA PROGRAMS
             </Link>
           </li>
 
           <li className='w-full text-center my-2 md:my-5'>
             <Link to='massage' smooth duration={500} onClick={closeMenu} className='block py-3 md:py-0 text-white/60 hover:text-yellow-500 cursor-pointer transition text-base'>
-              Thai Massage
+              THAI MASSAGE
             </Link>
           </li>
 
           <li className='w-full text-center my-2 md:my-5'>
             <Link to='certificates' smooth duration={500} onClick={closeMenu} className='block py-3 md:py-0 text-white/60 hover:text-yellow-500 cursor-pointer transition text-base'>
-              Certificates
+              CERTIFICATES
             </Link>
           </li>
 
           <li className='w-full text-center my-2 md:my-5'>
             <Link to='abonements' smooth duration={500} onClick={closeMenu} className='block py-3 md:py-0 text-white/60 hover:text-yellow-500 cursor-pointer transition text-base'>
-              Courses
+              COURSES
             </Link>
           </li>
 
           <li className='w-full text-center my-2 md:my-5'>
             <Link to='masters' smooth duration={500} onClick={closeMenu} className='block py-3 md:py-0 text-white/60 hover:text-yellow-500 cursor-pointer transition text-base'>
-              Masters
+              MASTERS
             </Link>
           </li>
 
           <li className='w-full text-center my-2 md:my-5'>
             <Link to='contacts' smooth duration={500} onClick={closeMenu} className='block py-3 md:py-0 text-white/60 hover:text-yellow-500 cursor-pointer transition text-base'>
-              Contact
+              CONTACT
             </Link>
           </li>
         </ul>

@@ -4,7 +4,7 @@ A modern SPA salon showcase website with interactive service selection.
 
 ## 🔗 Demo
 
-https://essence-rust.vercel.app
+https://essence-en.vercel.app
 
 ## ✨ Features
 

@@ -21,8 +21,8 @@ const ModalItem = ({ program, onClose }) => {
           </div>
 
           <div className='flex flex-col sm:flex-row sm:justify-between gap-2 text-black text-sm md:text-base mt-2'>
-            <p>Длительность: {program.time}</p>
-            <p>Цена: {program.price}</p>
+            <p>Duration: {program.time}</p>
+            <p>Price: {program.price}</p>
           </div>
         </div>
       </div>

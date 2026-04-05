@@ -6,6 +6,8 @@ A modern SPA salon showcase website with interactive service selection.
 
 https://essence-en.vercel.app
 
+https://github.com/KatrinCl/Essence-en
+
 ## ✨ Features
 
 * 📌 Browse SPA programs and massages
